@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "vuejs-web-app", "vuejs-web-app\vuejs-web-app.njsproj", "{566A9DD5-A954-4059-AD7C-5A98364941FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566A9DD5-A954-4059-AD7C-5A98364941FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566A9DD5-A954-4059-AD7C-5A98364941FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566A9DD5-A954-4059-AD7C-5A98364941FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566A9DD5-A954-4059-AD7C-5A98364941FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F592E76-CBB4-4567-B4FA-990024530F9D}
+	EndGlobalSection
+EndGlobal
